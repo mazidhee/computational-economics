@@ -1,4 +1,4 @@
-A collection of my projects and experiments focused on computational economics, market microstructure, financial engineering, and applied mathematics. The repository contains both sequential pipelines (e.g., synthetic market data generation -> order book rebuild -> execution -> risk) and standalone implementations of mathematical theory and algorithms.
+A collection of my projects and experiments focused on computational economics, financial engineering, and applied mathematics/computer science. The repository contains both sequential pipelines (e.g., synthetic market data generation -> order book rebuild -> execution -> risk) and standalone implementations of mathematical theory and algorithms.
 
 ## Setup and Usage
 
