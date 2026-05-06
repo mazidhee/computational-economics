@@ -1,5 +1,3 @@
-The Stochastic Generator is a robust, lightweight Python script designed to simulate a realistic, continuous stream of market data. By mathematically modeling asset price movements, this tool acts as a local, synthetic exchange. It generates high-fidelity "ticks" (bids and asks) for testing algorithmic trading systems, charting libraries, or data pipelines without relying on external, rate-limited financial APIs.
-
 ## Geometric Brownian Motion (GBM)
 The core engine of this simulator is based on the GBM stochastic process.
 The process is defined by the stochastic differential equation:
